@@ -10,8 +10,12 @@ The analysis aims to:
 4. Provide insights and recommendations based on the findings to improve clinical practice and patient care.
 ### Contents
 **Data Exploration**: Explore the dataset's structure, summary statistics, and distributions of variables.
+
 **Data Visualization**: Visualize the relationships between variables using plots such as histograms, bar plots, and survival curves.
+
 **Survival Analysis**: Conduct survival analysis, including Kaplan-Meier survival curves and log-rank tests, to assess the impact of factors like gender, ulceration status, and skin thickness on survival outcomes.
+
 **Hypothesis Testing**: Perform hypothesis tests to evaluate the significance of differences in survival between groups based on gender, ulceration status, and other factors.
+
 **Conclusion and Recommendations**: Summarizes the findings of the analysis and provide recommendations for clinical practice and further research.
 
